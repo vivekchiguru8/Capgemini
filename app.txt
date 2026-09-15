@@ -1,2 +1,2 @@
 ﻿Footer style
-add search functionality
+add checkout feature
