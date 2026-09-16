@@ -1,2 +1,2 @@
 ﻿Footer style
-add checkout feature
+functionality
